@@ -1,0 +1,31 @@
+ul {
+    padding: 0px;
+}
+
+a:hover {
+    background-color: goldenrod;
+}
+
+li {
+    list-style-type: none;
+    background-color:#eee;
+}
+
+li a{
+    padding: 14px;
+    overflow: hidden;
+    float: left;
+    width: 60x;
+    margin: 0;
+    display: inline;
+}
+
+a{
+    background-color: #eee;
+    display: block;
+    padding: 8px;
+}
+
+.active {
+    color: red;
+}
